@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FA81F164-02AC-4888-B2FE-0BC4D5360A8C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TexturePacker-SpriteKit-Swift</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>147C2179F51B355CF7BF1F4D78D389B09408EACF</key>
+		<string>ssh://stash/tut/texturepacker_tutorials.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TexturePacker-SpriteKit-Swift/github/TexturePacker-SpriteKit-Swift.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>147C2179F51B355CF7BF1F4D78D389B09408EACF</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://stash/tut/texturepacker_tutorials.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>147C2179F51B355CF7BF1F4D78D389B09408EACF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>147C2179F51B355CF7BF1F4D78D389B09408EACF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>texturepacker_tutorials</string>
+		</dict>
+	</array>
+</dict>
+</plist>

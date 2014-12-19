@@ -8,8 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		AA0D82C41A41DAF500887522 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0D82C31A41DAF500887522 /* AppDelegate.swift */; };
-		AA0D82C81A41DAF500887522 /* GameScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0D82C71A41DAF500887522 /* GameScene.swift */; };
 		AA0D82CA1A41DAF500887522 /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA0D82C91A41DAF500887522 /* GameViewController.swift */; };
+		AA0D82CD1A41DAF500887522 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA0D82CB1A41DAF500887522 /* Main.storyboard */; };
 		AA0D82CF1A41DAF500887522 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AA0D82CE1A41DAF500887522 /* Images.xcassets */; };
 		AA7031B51A430B0500E67FA4 /* CapGuy.atlasc in Resources */ = {isa = PBXBuildFile; fileRef = AA7031B31A430B0500E67FA4 /* CapGuy.atlasc */; };
 		AA7031B61A430B0500E67FA4 /* CapGuy.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7031B41A430B0500E67FA4 /* CapGuy.swift */; };
@@ -20,8 +20,8 @@
 		AA0D82BE1A41DAF500887522 /* TexturePacker-SpriteKit-Swift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TexturePacker-SpriteKit-Swift.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA0D82C21A41DAF500887522 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AA0D82C31A41DAF500887522 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AA0D82C71A41DAF500887522 /* GameScene.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameScene.swift; sourceTree = "<group>"; };
 		AA0D82C91A41DAF500887522 /* GameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameViewController.swift; sourceTree = "<group>"; };
+		AA0D82CC1A41DAF500887522 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AA0D82CE1A41DAF500887522 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		AA7031B31A430B0500E67FA4 /* CapGuy.atlasc */ = {isa = PBXFileReference; lastKnownFileType = folder; path = CapGuy.atlasc; sourceTree = "<group>"; };
 		AA7031B41A430B0500E67FA4 /* CapGuy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CapGuy.swift; sourceTree = "<group>"; };
@@ -61,9 +61,9 @@
 				AA7031B31A430B0500E67FA4 /* CapGuy.atlasc */,
 				AA7031B41A430B0500E67FA4 /* CapGuy.swift */,
 				AA0D82C31A41DAF500887522 /* AppDelegate.swift */,
-				AA0D82C71A41DAF500887522 /* GameScene.swift */,
 				AAE6575B1A41DDB3007FE246 /* MyScene.swift */,
 				AA0D82C91A41DAF500887522 /* GameViewController.swift */,
+				AA0D82CB1A41DAF500887522 /* Main.storyboard */,
 				AA0D82CE1A41DAF500887522 /* Images.xcassets */,
 				AA0D82C11A41DAF500887522 /* Supporting Files */,
 			);
@@ -137,6 +137,7 @@
 			files = (
 				AA7031B51A430B0500E67FA4 /* CapGuy.atlasc in Resources */,
 				AA0D82CF1A41DAF500887522 /* Images.xcassets in Resources */,
+				AA0D82CD1A41DAF500887522 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,13 +150,23 @@
 			files = (
 				AAE6575C1A41DDB3007FE246 /* MyScene.swift in Sources */,
 				AA7031B61A430B0500E67FA4 /* CapGuy.swift in Sources */,
-				AA0D82C81A41DAF500887522 /* GameScene.swift in Sources */,
 				AA0D82CA1A41DAF500887522 /* GameViewController.swift in Sources */,
 				AA0D82C41A41DAF500887522 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		AA0D82CB1A41DAF500887522 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				AA0D82CC1A41DAF500887522 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		AA0D82DF1A41DAF500887522 /* Debug */ = {

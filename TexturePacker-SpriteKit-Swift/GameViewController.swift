@@ -16,7 +16,7 @@ class GameViewController: UIViewController {
         super.viewDidLoad()
 
         // Configure the view.
-        let skView = self.view as SKView
+        let skView = self.view as! SKView
         skView.showsFPS = true
         skView.showsNodeCount = true
             
@@ -24,15 +24,15 @@ class GameViewController: UIViewController {
         skView.ignoresSiblingOrder = true
             
         // Create and configure the scene. We use iPad dimensions, and crop the image on iPhone screen
-        let scene = MyScene(size: CGSizeMake(1024, 768));
-        scene.scaleMode = .AspectFill
+        let scene = MyScene(size: CGSize(width: 1024, height: 768));
+        scene.scaleMode = .aspectFill
             
         skView.presentScene(scene)
     }
 
     
-    override func supportedInterfaceOrientations() -> Int {
-        return Int(UIInterfaceOrientationMask.Landscape.rawValue)
+    override var supportedInterfaceOrientations : UIInterfaceOrientationMask {
+        return UIInterfaceOrientationMask.landscape
     }
 
 }

@@ -2,9 +2,9 @@
 <data version="1.0">
     <struct type="Settings">
         <key>fileFormatVersion</key>
-        <int>3</int>
+        <int>4</int>
         <key>texturePackerVersion</key>
-        <string>3.6.0b1</string>
+        <string>4.2.3</string>
         <key>fileName</key>
         <string>/Users/joachim/Programming/texturepacker_tutorials/TexturePacker-SpriteKit-Swift/github/TexturePacker-SpriteKit-Swift/CapGuy.tps</string>
         <key>autoSDSettings</key>
@@ -46,8 +46,6 @@
         </array>
         <key>allowRotation</key>
         <true/>
-        <key>premultiplyAlpha</key>
-        <false/>
         <key>shapeDebug</key>
         <false/>
         <key>dpi</key>
@@ -60,6 +58,8 @@
         <true/>
         <key>pvrCompressionQuality</key>
         <enum type="SettingsBase::PvrCompressionQuality">PVR_QUALITY_NORMAL</enum>
+        <key>atfCompressData</key>
+        <false/>
         <key>mipMapMinSize</key>
         <uint>32768</uint>
         <key>etc1CompressionQuality</key>
@@ -114,8 +114,6 @@
             <key>height</key>
             <int>-1</int>
         </QSize>
-        <key>reduceBorderArtifacts</key>
-        <false/>
         <key>algorithmSettings</key>
         <struct type="AlgorithmSettings">
             <key>algorithm</key>
@@ -125,8 +123,6 @@
             <key>sizeConstraints</key>
             <enum type="AlgorithmSettings::SizeConstraints">AnySize</enum>
             <key>forceSquared</key>
-            <false/>
-            <key>forceWordAligned</key>
             <false/>
             <key>maxRects</key>
             <struct type="AlgorithmMaxRectsSettings">
@@ -176,6 +172,8 @@
         <false/>
         <key>outputFormat</key>
         <enum type="SettingsBase::OutputFormat">RGBA8888</enum>
+        <key>alphaHandling</key>
+        <enum type="SettingsBase::AlphaHandling">ClearTransparentPixels</enum>
         <key>contentProtection</key>
         <struct type="ContentProtection">
             <key>key</key>
@@ -187,27 +185,65 @@
         <false/>
         <key>prependSmartFolderName</key>
         <false/>
-        <key>cleanTransparentPixels</key>
-        <true/>
         <key>globalSpriteSettings</key>
         <struct type="SpriteSettings">
             <key>scale</key>
             <double>1</double>
             <key>scaleMode</key>
             <enum type="ScaleMode">Smooth</enum>
-            <key>innerPadding</key>
-            <uint>0</uint>
             <key>extrude</key>
             <uint>1</uint>
             <key>trimThreshold</key>
             <uint>1</uint>
+            <key>trimMargin</key>
+            <uint>1</uint>
             <key>trimMode</key>
             <enum type="SpriteSettings::TrimMode">Trim</enum>
+            <key>tracerTolerance</key>
+            <int>200</int>
             <key>heuristicMask</key>
             <false/>
-            <key>pivotPoint</key>
-            <enum type="SpriteSettings::PivotPoint">Center</enum>
+            <key>defaultPivotPoint</key>
+            <point_f>0.5,0.5</point_f>
+            <key>writePivotPoints</key>
+            <false/>
         </struct>
+        <key>individualSpriteSettings</key>
+        <map type="IndividualSpriteSettingsMap">
+            <key type="filename">../sprites/Background.png</key>
+            <key type="filename">../sprites/capguy/turn/0001.png</key>
+            <key type="filename">../sprites/capguy/turn/0002.png</key>
+            <key type="filename">../sprites/capguy/turn/0003.png</key>
+            <key type="filename">../sprites/capguy/turn/0004.png</key>
+            <key type="filename">../sprites/capguy/turn/0005.png</key>
+            <key type="filename">../sprites/capguy/turn/0006.png</key>
+            <key type="filename">../sprites/capguy/turn/0007.png</key>
+            <key type="filename">../sprites/capguy/turn/0008.png</key>
+            <key type="filename">../sprites/capguy/turn/0009.png</key>
+            <key type="filename">../sprites/capguy/turn/0010.png</key>
+            <key type="filename">../sprites/capguy/turn/0011.png</key>
+            <key type="filename">../sprites/capguy/turn/0012.png</key>
+            <key type="filename">../sprites/capguy/walk/0001.png</key>
+            <key type="filename">../sprites/capguy/walk/0002.png</key>
+            <key type="filename">../sprites/capguy/walk/0003.png</key>
+            <key type="filename">../sprites/capguy/walk/0004.png</key>
+            <key type="filename">../sprites/capguy/walk/0005.png</key>
+            <key type="filename">../sprites/capguy/walk/0006.png</key>
+            <key type="filename">../sprites/capguy/walk/0007.png</key>
+            <key type="filename">../sprites/capguy/walk/0008.png</key>
+            <key type="filename">../sprites/capguy/walk/0009.png</key>
+            <key type="filename">../sprites/capguy/walk/0010.png</key>
+            <key type="filename">../sprites/capguy/walk/0011.png</key>
+            <key type="filename">../sprites/capguy/walk/0012.png</key>
+            <key type="filename">../sprites/capguy/walk/0013.png</key>
+            <key type="filename">../sprites/capguy/walk/0014.png</key>
+            <key type="filename">../sprites/capguy/walk/0015.png</key>
+            <key type="filename">../sprites/capguy/walk/0016.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+            </struct>
+        </map>
         <key>fileList</key>
         <array>
             <filename>../sprites</filename>
@@ -222,5 +258,15 @@
         <uint>1</uint>
         <key>commonDivisorY</key>
         <uint>1</uint>
+        <key>packNormalMaps</key>
+        <false/>
+        <key>autodetectNormalMaps</key>
+        <true/>
+        <key>normalMapFilter</key>
+        <string></string>
+        <key>normalMapSuffix</key>
+        <string></string>
+        <key>normalMapSheetFileName</key>
+        <filename></filename>
     </struct>
 </data>

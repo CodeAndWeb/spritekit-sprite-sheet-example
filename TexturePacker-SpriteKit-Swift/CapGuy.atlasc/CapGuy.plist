@@ -5,9 +5,9 @@
         <key>codeandweb</key>
         <dict>
             <key>generator</key>
-            <string>TexturePacker 3.6.0 - http://www.codeandweb.com/texturepacker</string>
+            <string>TexturePacker 4.2.3 - http://www.codeandweb.com/texturepacker</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:cca24edc13401562d7ff82c3d6c003c4:ac7608d1f04ab193bff21724566c15eb:39d62a0cbe721fda095e2f7e4c4fe22b$</string>
+            <string>$TexturePacker:SmartUpdate:5ec07e890188d2200f87c28cf1529668:ac7608d1f04ab193bff21724566c15eb:39d62a0cbe721fda095e2f7e4c4fe22b$</string>
         </dict>
         <key>format</key>
         <string>APPL</string>
@@ -17,7 +17,7 @@
                 <key>path</key>
                 <string>CapGuy.1@2x.png</string>
                 <key>size</key>
-                <string>{2046,1857}</string>
+                <string>{2046,1928}</string>
                 <key>subimages</key>
                 <array>
                     <dict>
@@ -44,11 +44,11 @@
                         <key>name</key>
                         <string>capguy/walk/0015@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{23,5}</string>
+                        <string>{22,4}</string>
                         <key>spriteSourceSize</key>
                         <string>{187,324}</string>
                         <key>textureRect</key>
-                        <string>{{1,1539},{159,317}}</string>
+                        <string>{{1,1539},{161,319}}</string>
                         <key>textureRotated</key>
                         <false/>
                     </dict>
@@ -60,331 +60,11 @@
                         <key>name</key>
                         <string>capguy/walk/0016@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{23,5}</string>
+                        <string>{22,4}</string>
                         <key>spriteSourceSize</key>
                         <string>{187,324}</string>
                         <key>textureRect</key>
-                        <string>{{1,1539},{159,317}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0001@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{16,6}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{162,1539},{156,314}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0002@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{16,6}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{162,1539},{156,314}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0013@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{33,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{320,1539},{144,312}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0014@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{33,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{320,1539},{144,312}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0007@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{7,16}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{466,1539},{127,312}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0008@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{7,16}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{466,1539},{127,312}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0005@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{31,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{595,1539},{124,310}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0006@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{31,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{595,1539},{124,310}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0009@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{34,11}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{721,1539},{137,309}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0010@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{34,11}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{721,1539},{137,309}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0011@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{30,6}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{860,1539},{133,309}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0012@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{30,6}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{860,1539},{133,309}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0005@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{27,16}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{995,1539},{150,305}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0006@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{27,16}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{995,1539},{150,305}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0011@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{1,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{1147,1539},{149,305}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0012@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{1,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{1147,1539},{149,305}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0003@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{39,19}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{1298,1539},{139,304}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0004@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{39,19}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{207,329}</string>
-                        <key>textureRect</key>
-                        <string>{{1298,1539},{139,304}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0007@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{43,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{1439,1539},{139,304}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0008@2x.png</string>
-                        <key>spriteOffset</key>
-                        <string>{43,18}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{187,324}</string>
-                        <key>textureRect</key>
-                        <string>{{1439,1539},{139,304}}</string>
+                        <string>{{1,1539},{161,319}}</string>
                         <key>textureRotated</key>
                         <false/>
                     </dict>
@@ -396,11 +76,11 @@
                         <key>name</key>
                         <string>capguy/walk/0003@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{1,14}</string>
+                        <string>{0,13}</string>
                         <key>spriteSourceSize</key>
                         <string>{187,324}</string>
                         <key>textureRect</key>
-                        <string>{{1580,1539},{166,301}}</string>
+                        <string>{{164,1539},{168,303}}</string>
                         <key>textureRotated</key>
                         <false/>
                     </dict>
@@ -412,11 +92,11 @@
                         <key>name</key>
                         <string>capguy/walk/0004@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{1,14}</string>
+                        <string>{0,13}</string>
                         <key>spriteSourceSize</key>
                         <string>{187,324}</string>
                         <key>textureRect</key>
-                        <string>{{1580,1539},{166,301}}</string>
+                        <string>{{164,1539},{168,303}}</string>
                         <key>textureRotated</key>
                         <false/>
                     </dict>
@@ -428,11 +108,11 @@
                         <key>name</key>
                         <string>capguy/turn/0001@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{21,17}</string>
+                        <string>{20,16}</string>
                         <key>spriteSourceSize</key>
                         <string>{207,329}</string>
                         <key>textureRect</key>
-                        <string>{{1748,1539},{165,300}}</string>
+                        <string>{{334,1539},{167,302}}</string>
                         <key>textureRotated</key>
                         <false/>
                     </dict>
@@ -444,13 +124,333 @@
                         <key>name</key>
                         <string>capguy/turn/0002@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{21,17}</string>
+                        <string>{20,16}</string>
                         <key>spriteSourceSize</key>
                         <string>{207,329}</string>
                         <key>textureRect</key>
-                        <string>{{1748,1539},{165,300}}</string>
+                        <string>{{334,1539},{167,302}}</string>
                         <key>textureRotated</key>
                         <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0001@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{15,5}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{503,1539},{158,316}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0002@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{15,5}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{503,1539},{158,316}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0005@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{26,15}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{663,1539},{152,307}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0006@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{26,15}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{663,1539},{152,307}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0011@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{817,1539},{151,307}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0012@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{817,1539},{151,307}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0013@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{32,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{970,1539},{146,314}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0014@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{32,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{970,1539},{146,314}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0009@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{33,10}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1118,1539},{139,311}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0010@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{33,10}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1118,1539},{139,311}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0003@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{38,18}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1259,1539},{141,306}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0004@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{38,18}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1259,1539},{141,306}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0007@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{42,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1402,1539},{141,306}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0008@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{42,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1402,1539},{141,306}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0011@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{29,5}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1545,1539},{135,311}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0012@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{29,5}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{187,324}</string>
+                        <key>textureRect</key>
+                        <string>{{1545,1539},{135,311}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0007@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{6,15}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1682,1539},{314,129}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0008@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{6,15}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1682,1539},{314,129}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0005@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{30,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1682,1670},{312,126}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0006@2x.png</string>
+                        <key>spriteOffset</key>
+                        <string>{30,17}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{207,329}</string>
+                        <key>textureRect</key>
+                        <string>{{1682,1670},{312,126}}</string>
+                        <key>textureRotated</key>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -460,13 +460,13 @@
                         <key>name</key>
                         <string>capguy/turn/0009@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{12,17}</string>
+                        <string>{11,16}</string>
                         <key>spriteSourceSize</key>
                         <string>{207,329}</string>
                         <key>textureRect</key>
-                        <string>{{1915,1539},{127,298}}</string>
+                        <string>{{1682,1798},{300,129}}</string>
                         <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -476,13 +476,13 @@
                         <key>name</key>
                         <string>capguy/turn/0010@2x.png</string>
                         <key>spriteOffset</key>
-                        <string>{12,17}</string>
+                        <string>{11,16}</string>
                         <key>spriteSourceSize</key>
                         <string>{207,329}</string>
                         <key>textureRect</key>
-                        <string>{{1915,1539},{127,298}}</string>
+                        <string>{{1682,1798},{300,129}}</string>
                         <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                 </array>
             </dict>
@@ -490,7 +490,7 @@
                 <key>path</key>
                 <string>CapGuy.1.png</string>
                 <key>size</key>
-                <string>{1024,968}</string>
+                <string>{1024,982}</string>
                 <key>subimages</key>
                 <array>
                     <dict>
@@ -517,13 +517,13 @@
                         <key>name</key>
                         <string>capguy/walk/0015.png</string>
                         <key>spriteOffset</key>
-                        <string>{11,2}</string>
+                        <string>{10,1}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{1,771},{81,159}}</string>
+                        <string>{{1,771},{161,83}}</string>
                         <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -533,77 +533,13 @@
                         <key>name</key>
                         <string>capguy/walk/0016.png</string>
                         <key>spriteOffset</key>
-                        <string>{11,2}</string>
+                        <string>{10,1}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{1,771},{81,159}}</string>
+                        <string>{{1,771},{161,83}}</string>
                         <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0001.png</string>
-                        <key>spriteOffset</key>
-                        <string>{10,8}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{84,771},{84,151}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0002.png</string>
-                        <key>spriteOffset</key>
-                        <string>{10,8}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{84,771},{84,151}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0003.png</string>
-                        <key>spriteOffset</key>
-                        <string>{0,7}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{170,771},{84,151}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0004.png</string>
-                        <key>spriteOffset</key>
-                        <string>{0,7}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{170,771},{84,151}}</string>
-                        <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -613,13 +549,13 @@
                         <key>name</key>
                         <string>capguy/walk/0001.png</string>
                         <key>spriteOffset</key>
-                        <string>{8,3}</string>
+                        <string>{7,2}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{256,771},{79,157}}</string>
+                        <string>{{164,771},{159,81}}</string>
                         <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -629,77 +565,13 @@
                         <key>name</key>
                         <string>capguy/walk/0002.png</string>
                         <key>spriteOffset</key>
-                        <string>{8,3}</string>
+                        <string>{7,2}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{256,771},{79,157}}</string>
+                        <string>{{164,771},{159,81}}</string>
                         <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0011.png</string>
-                        <key>spriteOffset</key>
-                        <string>{0,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{337,771},{76,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0012.png</string>
-                        <key>spriteOffset</key>
-                        <string>{0,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{337,771},{76,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0005.png</string>
-                        <key>spriteOffset</key>
-                        <string>{13,8}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{415,771},{76,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0006.png</string>
-                        <key>spriteOffset</key>
-                        <string>{13,8}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{415,771},{76,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -709,13 +581,13 @@
                         <key>name</key>
                         <string>capguy/walk/0013.png</string>
                         <key>spriteOffset</key>
-                        <string>{16,4}</string>
+                        <string>{15,3}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{493,771},{73,157}}</string>
+                        <string>{{325,771},{159,75}}</string>
                         <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -725,141 +597,13 @@
                         <key>name</key>
                         <string>capguy/walk/0014.png</string>
                         <key>spriteOffset</key>
-                        <string>{16,4}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{493,771},{73,157}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0003.png</string>
-                        <key>spriteOffset</key>
-                        <string>{19,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{568,771},{71,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/turn/0004.png</string>
-                        <key>spriteOffset</key>
-                        <string>{19,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{104,165}</string>
-                        <key>textureRect</key>
-                        <string>{{568,771},{71,153}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0007.png</string>
-                        <key>spriteOffset</key>
-                        <string>{21,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{641,771},{71,152}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0008.png</string>
-                        <key>spriteOffset</key>
-                        <string>{21,9}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{641,771},{71,152}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0009.png</string>
-                        <key>spriteOffset</key>
-                        <string>{17,5}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{714,771},{69,155}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0010.png</string>
-                        <key>spriteOffset</key>
-                        <string>{17,5}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{714,771},{69,155}}</string>
-                        <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0011.png</string>
-                        <key>spriteOffset</key>
                         <string>{15,3}</string>
                         <key>spriteSourceSize</key>
                         <string>{94,162}</string>
                         <key>textureRect</key>
-                        <string>{{785,771},{67,155}}</string>
+                        <string>{{325,771},{159,75}}</string>
                         <key>textureRotated</key>
-                        <false/>
-                    </dict>
-                    <dict>
-                        <key>aliases</key>
-                        <array/>
-                        <key>isFullyOpaque</key>
-                        <false/>
-                        <key>name</key>
-                        <string>capguy/walk/0012.png</string>
-                        <key>spriteOffset</key>
-                        <string>{15,3}</string>
-                        <key>spriteSourceSize</key>
-                        <string>{94,162}</string>
-                        <key>textureRect</key>
-                        <string>{{785,771},{67,155}}</string>
-                        <key>textureRotated</key>
-                        <false/>
+                        <true/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -869,11 +613,11 @@
                         <key>name</key>
                         <string>capguy/turn/0007.png</string>
                         <key>spriteOffset</key>
-                        <string>{3,8}</string>
+                        <string>{2,7}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,771},{157,65}}</string>
+                        <string>{{486,771},{158,67}}</string>
                         <key>textureRotated</key>
                         <true/>
                     </dict>
@@ -885,13 +629,237 @@
                         <key>name</key>
                         <string>capguy/turn/0008.png</string>
                         <key>spriteOffset</key>
-                        <string>{3,8}</string>
+                        <string>{2,7}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,771},{157,65}}</string>
+                        <string>{{486,771},{158,67}}</string>
                         <key>textureRotated</key>
                         <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0009.png</string>
+                        <key>spriteOffset</key>
+                        <string>{16,4}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{646,771},{157,71}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0010.png</string>
+                        <key>spriteOffset</key>
+                        <string>{16,4}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{646,771},{157,71}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0001.png</string>
+                        <key>spriteOffset</key>
+                        <string>{9,7}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{486,840},{153,86}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0002.png</string>
+                        <key>spriteOffset</key>
+                        <string>{9,7}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{486,840},{153,86}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0003.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,6}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{325,848},{153,85}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0004.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,6}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{325,848},{153,85}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0005.png</string>
+                        <key>spriteOffset</key>
+                        <string>{12,7}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{164,854},{155,78}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0006.png</string>
+                        <key>spriteOffset</key>
+                        <string>{12,7}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{164,854},{155,78}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0011.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{1,856},{155,77}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0012.png</string>
+                        <key>spriteOffset</key>
+                        <string>{0,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{1,856},{155,77}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0003.png</string>
+                        <key>spriteOffset</key>
+                        <string>{18,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{805,771},{73,155}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/turn/0004.png</string>
+                        <key>spriteOffset</key>
+                        <string>{18,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{104,165}</string>
+                        <key>textureRect</key>
+                        <string>{{805,771},{73,155}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0007.png</string>
+                        <key>spriteOffset</key>
+                        <string>{20,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{880,771},{73,154}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0008.png</string>
+                        <key>spriteOffset</key>
+                        <string>{20,8}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{880,771},{73,154}}</string>
+                        <key>textureRotated</key>
+                        <false/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -901,13 +869,13 @@
                         <key>name</key>
                         <string>capguy/turn/0005.png</string>
                         <key>spriteOffset</key>
-                        <string>{15,9}</string>
+                        <string>{14,8}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,838},{156,63}}</string>
+                        <string>{{955,771},{65,157}}</string>
                         <key>textureRotated</key>
-                        <true/>
+                        <false/>
                     </dict>
                     <dict>
                         <key>aliases</key>
@@ -917,11 +885,43 @@
                         <key>name</key>
                         <string>capguy/turn/0006.png</string>
                         <key>spriteOffset</key>
-                        <string>{15,9}</string>
+                        <string>{14,8}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,838},{156,63}}</string>
+                        <string>{{955,771},{65,157}}</string>
+                        <key>textureRotated</key>
+                        <false/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0011.png</string>
+                        <key>spriteOffset</key>
+                        <string>{14,2}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{641,844},{157,69}}</string>
+                        <key>textureRotated</key>
+                        <true/>
+                    </dict>
+                    <dict>
+                        <key>aliases</key>
+                        <array/>
+                        <key>isFullyOpaque</key>
+                        <false/>
+                        <key>name</key>
+                        <string>capguy/walk/0012.png</string>
+                        <key>spriteOffset</key>
+                        <string>{14,2}</string>
+                        <key>spriteSourceSize</key>
+                        <string>{94,162}</string>
+                        <key>textureRect</key>
+                        <string>{{641,844},{157,69}}</string>
                         <key>textureRotated</key>
                         <true/>
                     </dict>
@@ -933,11 +933,11 @@
                         <key>name</key>
                         <string>capguy/turn/0009.png</string>
                         <key>spriteOffset</key>
-                        <string>{6,8}</string>
+                        <string>{5,7}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,903},{150,64}}</string>
+                        <string>{{641,915},{152,66}}</string>
                         <key>textureRotated</key>
                         <true/>
                     </dict>
@@ -949,11 +949,11 @@
                         <key>name</key>
                         <string>capguy/turn/0010.png</string>
                         <key>spriteOffset</key>
-                        <string>{6,8}</string>
+                        <string>{5,7}</string>
                         <key>spriteSourceSize</key>
                         <string>{104,165}</string>
                         <key>textureRect</key>
-                        <string>{{854,903},{150,64}}</string>
+                        <string>{{641,915},{152,66}}</string>
                         <key>textureRotated</key>
                         <true/>
                     </dict>

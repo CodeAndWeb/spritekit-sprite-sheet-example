@@ -1,11 +1,10 @@
 SpriteKit-TexturePacker-Swift
 =============================
 
-Simple demo project to explain how to use a texture altlas and Swift class file generated with TexturePacker.
+Simple demo project to explain how to use a texture atlas and Swift class file generated with TexturePacker.
 
-The complete tutorial is available from
+The complete tutorial is available here:
 
-https://www.codeandweb.com/blog/2014/12/18/spritekit-textureatlasses-with-swift
-
+https://www.codeandweb.com/texturepacker/tutorials/spritekit-textureatlases-with-swift
 
 ![screenshot](screenshot-iphone.png "Screenshot of the demo project")

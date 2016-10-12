@@ -1,6 +1,6 @@
 // ---------------------------------------
 // Sprite definitions for 'CapGuy'
-// Generated with TexturePacker 3.6.0
+// Generated with TexturePacker 4.2.3
 //
 // http://www.codeandweb.com/texturepacker
 // ---------------------------------------

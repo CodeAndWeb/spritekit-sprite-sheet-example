@@ -1,9 +1,9 @@
-// ---------------------------------------
+// ----------------------------------------
 // Sprite definitions for 'CapGuy'
-// Generated with TexturePacker 4.2.3
+// Generated with TexturePacker 7.0.3
 //
-// http://www.codeandweb.com/texturepacker
-// ---------------------------------------
+// https://www.codeandweb.com/texturepacker
+// ----------------------------------------
 
 import SpriteKit
 

@@ -7,4 +7,4 @@ The complete tutorial is available here:
 
 https://www.codeandweb.com/texturepacker/tutorials/spritekit-textureatlases-with-swift
 
-![screenshot](screenshot-iphone.png "Screenshot of the demo project")
+![screenshot](screenshot.png "Screenshot of the demo project")

@@ -5,9 +5,9 @@
         <key>codeandweb</key>
         <dict>
             <key>generator</key>
-            <string>TexturePacker 4.2.3 - http://www.codeandweb.com/texturepacker</string>
+            <string>TexturePacker 7.0.3 - https://www.codeandweb.com/texturepacker</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5ec07e890188d2200f87c28cf1529668:ac7608d1f04ab193bff21724566c15eb:39d62a0cbe721fda095e2f7e4c4fe22b$</string>
+            <string>$TexturePacker:SmartUpdate:11f8fc6d8901d0f793341dca99e0d88b:ac7608d1f04ab193bff21724566c15eb:39d62a0cbe721fda095e2f7e4c4fe22b$</string>
         </dict>
         <key>format</key>
         <string>APPL</string>

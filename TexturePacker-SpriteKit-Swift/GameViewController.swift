@@ -2,8 +2,7 @@
 //  GameViewController.swift
 //  TexturePacker-SpriteKit-Swift
 //
-//  Created by Joachim Grill on 17.12.14.
-//  Copyright (c) 2014 CodeAndWeb GmbH. All rights reserved.
+//  Copyright (c) 2023 CodeAndWeb GmbH. All rights reserved.
 //
 
 import UIKit
